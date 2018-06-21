@@ -29,8 +29,6 @@ android {
         preproduction {
             applicationIdSuffix ".pre"
         }
-        release {}
-    }
     }
 }
 
