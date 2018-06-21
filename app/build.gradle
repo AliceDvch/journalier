@@ -34,7 +34,8 @@ android {
         demo {
             applicationIdSuffix ".demo"
             versionNameSuffix "-demo"
-        }complete {
+        }
+        complete {
             applicationIdSuffix ".complete"
             versionNameSuffix "-complete"
         }
